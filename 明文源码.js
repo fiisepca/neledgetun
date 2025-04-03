@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '5a01dc39-43aa-4cc7-b08f-365f6b9293e7';
+let userID = 'cf1cd9e2-72a9-4f4f-a515-59a339a77ccf';
 let proxyIP = 'nima.nscl.ir';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
